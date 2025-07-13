@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Subdomain Takeover PoC</title>
+  </head>
+  <body>
+    <h1>Subdomain Takeover Successful!</h1>
+    <p>This site is under my control.</p>
+  </body>
+</html>
